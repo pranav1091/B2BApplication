@@ -1,0 +1,10 @@
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb
+H:\Udemy_Study_Material\udapted\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+H:\Udemy_Study_Material\udapted\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+H:\Udemy_Study_Material\udapted\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
+H:\Udemy_Study_Material\udapted\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+H:\Udemy_Study_Material\udapted\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb

@@ -1,0 +1,146 @@
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.WebUI.dll.config
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.WebUI.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.WebUI.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Contracts.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.DAL.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Model.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Owin.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Helpers.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Mvc.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Optimization.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Razor.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\WebGrease.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Contracts.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.DAL.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\eCommerce.Model.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Helpers.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Mvc.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Optimization.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.Razor.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\WebActivatorEx.dll
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\bretthargreaves\Documents\Visual Studio 2013\Projects\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.WebUI.dll.config
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.WebUI.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.WebUI.pdb
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Antlr3.Runtime.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.Contracts.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.DAL.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.Model.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\EntityFramework.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\EntityFramework.SqlServer.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Google.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Newtonsoft.Json.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Owin.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Helpers.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Mvc.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Optimization.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Razor.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Deployment.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Razor.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\WebActivatorEx.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\WebGrease.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.Contracts.pdb
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.DAL.pdb
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\eCommerce.Model.pdb
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Helpers.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Mvc.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Optimization.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.Razor.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Deployment.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\System.Web.WebPages.Razor.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Antlr3.Runtime.pdb
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Newtonsoft.Json.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\EntityFramework.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\EntityFramework.SqlServer.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Google.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.csprojResolveAssemblyReference.cache
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.dll
+H:\Udemy_Study_Material\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.pdb
